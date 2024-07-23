@@ -1,6 +1,6 @@
 # Guess the Number Game in Rust
 
-![Ferris the Crab](https://rustacean.net/assets/rustacean-orig-noshadow.svg)
+<img src="https://rustacean.net/assets/rustacean-orig-noshadow.svg" width="200">
 
 Welcome to my first Rust application! This is a simple console game where the player needs to guess a number between 1 and 100. The application will guide the player by providing feedback whether their guess is too small, too big, or correct.
 
